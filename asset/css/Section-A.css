@@ -1,0 +1,131 @@
+body {
+    font-family: "Nunito", sans-serif;
+  }
+  .navbarAtas .nabar-nav {
+    margin-right: auto;
+  }
+  /* .strip{
+    background-color: #F2F6FF !important;
+    border-radius: 50% !important;
+  } */
+  .banner-bkg{
+    padding: 0px 100px !important;
+  }
+
+  .banner {
+      width: 100%;
+      height: 700px;
+      background-color: #F2F6FF; 
+      color: #234CAD;
+      border-radius: 60px;
+      padding: 10px 50px 55px 50px;
+    }
+    .button_banner {
+     
+      border: none;
+      color: #234CAD;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      
+    }
+    .button_nav{
+     
+      border: none;
+      color: #234CAD;
+      padding: 5px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 13px;
+      margin: 4px 2px;
+      cursor: pointer;
+      
+    }
+    .button_nav1{
+     
+      border: none;
+      color: #234CAD;
+      padding: 7px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 13px;
+      margin: 4px 2px;
+      cursor: pointer;
+      
+    }
+    .button1 {
+      background-color: white; 
+      color: #234CAD; 
+      border: 2px solid  #234CAD;
+      border-radius:32.5px ;
+      font-weight: bold;
+    }
+    .button2 {
+      background-color: #F2F6FF; 
+      color: #234CAD; 
+      border: 2px solid  #234CAD;
+      border-radius:32.5px ;
+      font-weight: bold;
+    }
+    .button3 {
+      background-color: #F2F6FF; 
+      color: #234CAD; 
+       ;
+      border-radius:32.5px ;
+      font-weight: bold;
+    }
+    .banner0 {
+      width: 80px;
+      height: 80px;
+      background-color: white; 
+      color: #234CAD;
+      border-radius: 20px;
+      padding: 15px;
+    }
+  
+    .banner1 {
+      width: 337px;
+      height: auto;
+      background-color: white; 
+      color: #234CAD;
+      border-radius: 20px;
+      padding: 15px;
+      
+    }
+    .banner1_1 {
+        width: 350px;
+        height: auto;
+        background-color: white; 
+        color: #234CAD;
+        border-radius: 20px;
+        padding: 15px;
+        
+      }
+  
+    .banner2 {
+      width: 140px;
+      height: auto;
+      background-color: white; 
+      color: #234CAD;
+      border-radius: 20px;
+      padding: 15px;
+    }
+    .banner3 {
+      width: 20vw;
+      height: auto;
+      background-color: white; 
+      color: #234CAD;
+      border-radius: 20px;
+      padding: 15px;
+    }
+    .img_banner {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
